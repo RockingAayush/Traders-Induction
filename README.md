@@ -4,9 +4,10 @@ This project is part of the induction task for the tech team of Traders@BPHC, th
 
 ## Features
 - About Us: Learn about the club's purpose and initiatives.
-- Resources: Access guides, tools, and materials for trading and finance.
+- Resources: Access external guides, tools, and materials for trading and finance.
 - Events: View the latest events and participate in club activities.
 - Contact: Get in touch with the club for inquiries.
+- Responsive: Fully compatible to any screen size.
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript
